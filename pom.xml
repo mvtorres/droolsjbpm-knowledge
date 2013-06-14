@@ -9,7 +9,7 @@
     <!-- relativePath causes out-of-date problems on hudson slaves -->
     <!--<relativePath>../droolsjbpm-build-bootstrap/pom.xml</relativePath>-->
   </parent>
-  <version>5.5.0.Final.rfc.1</version>
+  <version>5.5.0.Final.rfc.2-SNAPSHOT</version>
 
   <groupId>org.drools</groupId>
   <artifactId>droolsjbpm-knowledge</artifactId>
