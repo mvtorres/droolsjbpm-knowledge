@@ -10,6 +10,7 @@
     <!-- relativePath causes out-of-date problems on hudson slaves -->
     <!--<relativePath>../droolsjbpm-build-bootstrap/pom.xml</relativePath>-->
   </parent>
+  <version>5.5.0.Final.rfc.1-SNAPSHOT</version>
 
   <groupId>org.drools</groupId>
   <artifactId>droolsjbpm-knowledge</artifactId>
@@ -39,8 +40,8 @@
   </repositories>
 
   <scm>
-    <connection>scm:git:git@github.com:droolsjbpm/droolsjbpm-knowledge.git</connection>
-    <developerConnection>scm:git:git@github.com:droolsjbpm/droolsjbpm-knowledge.git</developerConnection>
+    <connection>scm:git:https://github.com/mvtorres/droolsjbpm-knowledge.git</connection>
+    <developerConnection>scm:git:https://github.com/mvtorres/droolsjbpm-knowledge.git</developerConnection>
     <url>https://github.com/droolsjbpm/droolsjbpm-knowledge</url>
   </scm>
 
